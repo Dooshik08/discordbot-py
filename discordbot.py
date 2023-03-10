@@ -5,7 +5,7 @@ import asyncio
 
 INTENTS = indentsize.all()
 client = discord.Client(command_prefix = "",intents=INTENTS)
-TOKEN = "MTA4MzM4OTk0OTk0MTkxNTc0OA.GT5CW1._oJCxyzk0L6nGsQ0EZfiaLqiswclkwxW1-sxB8"
+TOKEN = "MTA4MzM4OTk0OTk0MTkxNTc0OA.GlMI0C.eRlltdzK8S7zXX-8byE3zcOjz3DbEKWqATD7F8"
 
 @client.event
 async def on_ready(): 
